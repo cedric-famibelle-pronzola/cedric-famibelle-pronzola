@@ -100,7 +100,7 @@ Documentary platform for Guadeloupe National Organization Group archives with in
 [![Email](https://img.shields.io/badge/Email-contact@cedric--pronzola.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cedric-pronzola.dev)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://bokantaj.o-k-i.net/@ced972)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ced972.bsky.social)
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/ced972)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/cedric-famibelle-pronzola)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ced97240)
 
 </div>
